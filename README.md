@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHc5OHdqaXlubTllemU3NDQ0ejV2Yzd1b3Y1OWxydTlpNW9zZ2QweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LJLXcQsc77qMBectco/giphy.gif"  />
+</div>
+
+###
+
 <h1 align="center">Kamusta! Kabayan / Hello World!</h1>
 
 ###
