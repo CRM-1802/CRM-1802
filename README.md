@@ -1,8 +1,8 @@
-<h1 align="center">Kamusta! Kabayan</h1>
+<h1 align="center">Kamusta! Kabayan / Hello World!</h1>
 
 ###
 
-<h3 align="center">My name is JC Banzuela and i like to make UI/UX Design.</h3>
+<p align="center">Hi, I'm JC Banzuela — a passionate UI/UX designer and recent Computer Science graduate.<br>I love creating intuitive and engaging user experiences using Figma, and I'm always eager to turn ideas into visually compelling and user-friendly designs.</p>
 
 ###
 
@@ -10,32 +10,30 @@
 
 ###
 
-<p align="center">✨ Creating designs since: College<br>📚 I'm currently learning: Other Prototyping Websites/Software<br>🎯 Goals: UI/UX Designer</p>
+<p align="left">📚 I'm currently learning: <br><br>- How to enhance my designs to be more intuitive and user-centered.<br><br>- Techniques to create more aesthetically refined and accessible UIs<br><br>- Best practices in user experience research and design systems<br><br>🎯 Goals:<br><br>- Explore and master other prototyping tools <br><br>- Continuously improve my skills to design experiences that truly connect with users</p>
 
 ###
 
-<h4 align="left">I design and code with</h4>
+<h2 align="left">I code with</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
-  <img width="20" />
-  <img src="https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=black&style=for-the-badge" height="50" alt="bulma logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" alt="bulma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xlcmMxZHQwa2RmYnZmZ3Z1czB4eWVuNTN2YW4yZWZ0NTFtcjlkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OfO29OyDiyHqTqYBOg/giphy.gif"  />
+  <img height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZqODZrZm9hNWIwcGZsMjBydGM3eHJ5MnR1bGZmZ3cza2Q0eTlwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MaonvBECkz8EDLUaMe/giphy.gif"  />
 </div>
 
 ###
