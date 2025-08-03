@@ -45,7 +45,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/CRM-1802/CRM-1802/output/snake.svg" alt="Snake animation" />
-
-###
